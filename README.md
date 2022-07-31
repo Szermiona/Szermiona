@@ -17,9 +17,9 @@
   ### :woman_technologist: About Me :
   
   - :globe_with_meridians: I'm from Poland 
-  - :books: I'm currently learning Java + Spring on a Bootcamp at <a href="https://infoshareacademy.com/">infoShare Academy</a>
-  - :zap: I'm currently working on a group project - web application
-  - :computer: I'm hoping to soon start a career as a Junior Java Developer 
+  - :books: I recently finished a certified Java + Spring course at <a href="https://infoshareacademy.com/">infoShare Academy</a>
+  - :zap: I'm currently working on a project of my own -> <a href="https://github.com/Szermiona/to-do-list">repository</a>
+  - :computer: I'm hoping to soon start a career as a Junior Java Developer
   - :mailbox: Do not hesitate to contact me via <a href="mailto:shirley.sopotnicka@gmail.com">e-mail</a> or my <a href="https://www.linkedin.com/in/shirley-sopotnicka/">LinkedIn Account</a>
   
   ---
